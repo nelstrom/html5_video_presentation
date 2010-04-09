@@ -29,12 +29,12 @@ How to embed HTML5 video
 		: 	play in popular standards-compliant web browsers, and I don't want
 		: 	the video to download/buffer automatically.
 Support for <video>
-:	browser		Ogg		H.264
-:	Firefox		 X 		  -
-:	Opera  		 X 		  -
-:	Chrome 		 X 		  X
-:	Safari 		 - 		  X
-:	IE     		 - 		  -
+	:	browser		Ogg		H.264
+	:	Firefox		 X 		  -
+	:	Opera  		 X 		  -
+	:	Chrome 		 X 		  X
+	:	Safari 		 - 		  X
+	:	IE     		 - 		  -
 Fallbacks
 	Contents of <video></video> tags will be rendered where unsupported
 	Flash can handle H.264
