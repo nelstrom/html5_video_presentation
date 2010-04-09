@@ -21,13 +21,13 @@
 !SLIDE
 #HTML5 VIDEO
 
-!SLIDE
-##IDEAL
-
 !SLIDE smaller
 
     @@@html
     <video src="/movies/example.ogg"/>
+
+!SLIDE
+##IDEAL
 
 !SLIDE
 ##REAL

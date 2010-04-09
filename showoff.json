@@ -1,8 +1,9 @@
 [ 
     {"section":"intro"}
-    //,{"section":"history"}
-    ,{"section":"howto"}
-    ,{"section":"support"}
-    ,{"section":"codecs"}
-    ,{"section":"practicalities"}
+    //,{"section":"history"}            // 1 minute
+    //,{"section":"howto"}              // 3 minutes
+    //,{"section":"support"}            // 1 minute
+    ,{"section":"fallbacks"}          // 1 minute
+    //,{"section":"codecs"}             // 2 minutes
+    //,{"section":"practicalities"}     // 3 minutes
 ]
