@@ -1,0 +1,81 @@
+About me
+	Vimcasts
+		Distribute as a video podcast
+		Required to use iPod compatible video
+		Vim is open source, free.
+		Ogg video is an open codec
+		Must support OGG video
+A History of video on the web
+	The plugin wars
+	The emergence of Flash
+How to embed Flash video
+	Compare <object> and <embed>
+How to embed HTML5 video
+	Ideally: <video src=""/>
+	In reality: <video><source href=""/></video>
+	Options
+		width/height
+		controls
+		poster
+		autoplay
+		: not recommended
+		: 	* irritating (where did that sound come from?)
+		: 	* problematic for assistive technologies (conflict video sound with
+		: 	screenreader)
+		: 	* unresponsive for low-bandwidth useres (e.g. mobile)
+		autobuffer
+		: Gruber:
+		: 	I want the markup to be sane and standard, I want the video to
+		: 	play in popular standards-compliant web browsers, and I don't want
+		: 	the video to download/buffer automatically.
+Support for <video>
+:	browser		Ogg		H.264
+:	Firefox		 X 		  -
+:	Opera  		 X 		  -
+:	Chrome 		 X 		  X
+:	Safari 		 - 		  X
+:	IE     		 - 		  -
+Fallbacks
+	Contents of <video></video> tags will be rendered where unsupported
+	Flash can handle H.264
+Benefits of <video>
+	It's native
+	: works with page zoom
+	scriptable with JavaScript
+	styleable with CSS/HTML
+	future proof!
+What is HTML5?
+: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+:   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+: 
+: <!DOCTYPE html>
+: link to stackoverflow article
+Codecs and containers
+	Containers revealed in file extension & content-type
+	: examples: .mov, .ogg, .flv
+	Codec is under the hood
+		code for audio (e.g. ogg vorbis, mp3)
+		codec for video (e.g. ogg theora, h.264)
+	: .mov could use h.264, or sorenson codec, or even Theora
+	: .o
+Practicalities
+	Encoding
+		mac os x
+		: easy to export h.264
+		: difficult to export ogg
+		: political
+		linux
+		: easy to export ogg
+		: h.264 ???
+	Content-type is crucial!
+	: .og(g|v): video/ogg
+	: .m4v: video/x-m4v
+	autobuffer
+	: not respected by Safari & Chrome
+	: an index page with multiple videos will download them all
+	: 	expensive for host
+	: 	unresponsive for user
+	: use javascript to replace an <img/> with a <video/> tag
+Integrating Video with Canvas
+	Canvas - another feature of HTML5
