@@ -21,9 +21,12 @@
 
     </video>
 
-!SLIDE bullets smaller
+!SLIDE bullets small incremental
 ##VIDEO FOR EVERYBODY
 
+* use \<video\> where supported
+* fallback to flash
+* do not require javascript
 * [http://camendesign.com/code/video_for_everybody](http://camendesign.com/code/video_for_everybody)
 
 !SLIDE smaller
