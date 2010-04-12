@@ -72,6 +72,8 @@ Practicalities
 	: .og(g|v): video/ogg
 	: .m4v: video/x-m4v
 	autobuffer
+	: I read YouTube, but only for the comments
+	:
 	: not respected by Safari & Chrome
 	: an index page with multiple videos will download them all
 	: 	expensive for host
