@@ -12,5 +12,6 @@
 !SLIDES bullets
 ## LINKS
 
-* [http://github.com/nelstrom/html5_video_presentation](http://github.com/nelstrom/html5_video_presentation)
 * [http://drewneil.com/p/html5_video](http://drewneil.com/p/html5_video)
+* [http://github.com/nelstrom/html5_video_presentation](http://github.com/nelstrom/html5_video_presentation)
+
