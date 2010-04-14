@@ -1,3 +1,12 @@
+[_] % images
+	[_] page with video
+	[_] page with video zoomed
+	[_] page with FLASH video zoomed
+	[_] the SUBMLIME player
+	[_] the w3c video api
+	[_] tile game
+	[_] youtube video chooser
+	[_] FireFox 3.6 full screen dialogue
 About me
 	Vimcasts
 		Distribute as a video podcast
@@ -79,5 +88,3 @@ Practicalities
 	: 	expensive for host
 	: 	unresponsive for user
 	: use javascript to replace an <img/> with a <video/> tag
-Integrating Video with Canvas
-	Canvas - another feature of HTML5
