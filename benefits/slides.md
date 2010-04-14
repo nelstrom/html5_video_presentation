@@ -1,16 +1,6 @@
 !SLIDE
 # BENEFITS
 
-!SLIDE bullets incremental small
-## BENEFITS
-
-* Native - works with page zoom
-* Style with CSS
-* Script with JavaScript
-* Integration with \<canvas\>
-* Low CPU usage
-* Future proof
-
 !SLIDE
 ## PAGE ZOOM
 
@@ -62,7 +52,4 @@
 
 !SLIDE
 ![Tile video game](../images/tile-game.png)
-
-!SLIDE
-![youtube video chooser](../images/youtube-chooser.png)
 
