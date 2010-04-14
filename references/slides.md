@@ -10,10 +10,7 @@
 * [Accessible HTML5 video with captions](http://dev.opera.com/articles/view/accessible-html5-video-with-javascripted-captions/)
 
 !SLIDES bullets
-## BIBLIOGRAPHY
+## LINKS
 
-* [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/download.html)
-* [Video events](http://www.w3.org/TR/html5/video.html#mediaevents)
-* [Open video puzzle](http://ajaxian.com/archives/open-web-video-puzzle)
-* [Open video puzzle](http://fczbrhackday.appspot.com/)
-* 
+* [http://github.com/nelstrom/html5_video_presentation](http://github.com/nelstrom/html5_video_presentation)
+* [http://drewneil.com/p/html5_video](http://drewneil.com/p/html5_video)
