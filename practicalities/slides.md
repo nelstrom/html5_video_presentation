@@ -33,9 +33,9 @@
 # AUTOBUFFER
 
 !SLIDE
-img: http://daringfireball.net/2009/12/html5_video_unusable
+![Why the HTML5 'video' element is effectively unusable, even in browsers which support it](../images/daringfireball.png)
 
-!SLIDE bullets
+!SLIDE bullets incremental
 ## AUTOBUFFER
 * Safari/Chrome (webkit) don't honor "autobuffer"
 * Firefox buffers head for poster frame

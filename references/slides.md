@@ -12,4 +12,8 @@
 !SLIDES bullets
 ## BIBLIOGRAPHY
 
-* [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/download.html
+* [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/download.html)
+* [Video events](http://www.w3.org/TR/html5/video.html#mediaevents)
+* [Open video puzzle](http://ajaxian.com/archives/open-web-video-puzzle)
+* [Open video puzzle](http://fczbrhackday.appspot.com/)
+* 

@@ -1,13 +1,14 @@
-[_] % images
-	[_] page with video
-	[_] page with video zoomed
-	[_] page with FLASH video zoomed
-	[_] the SUBMLIME player
-	[_] the w3c video api
-	[_] tile game
-	[_] youtube video chooser
-	[_] FireFox 3.6 full screen dialogue
-	[_] http://daringfireball.net/2009/12/html5_video_unusable
+[_] resize the browser support table
+[X] 100% images
+	[X] page with video
+	[X] page with video zoomed
+	[X] the SUBMLIME player
+	[X] the w3c video api
+	[X] tile game
+	[X] youtube video chooser
+	[X] FireFox 3.6 full screen dialogue
+	[X] iPad screen grab
+	[X] http://daringfireball.net/2009/12/html5_video_unusable
 About me
 	Vimcasts
 		Distribute as a video podcast

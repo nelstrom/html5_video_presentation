@@ -1,11 +1,11 @@
 [ 
     {"section":"intro"}
-    //,{"section":"history"}            // 1 minute
-    //,{"section":"howto"}              // 3 minutes
-    //,{"section":"support"}            // 1 minute
-    //,{"section":"fallbacks"}          // 1 minute
-    //,{"section":"benefits"}           // 1 minute
-    //,{"section":"codecs"}             // 2 minutes
-    ,{"section":"practicalities"}     // 3 minutes
-    //,{"section":"references"}         // 1 minutes
+    //,{"section":"history"}            // 1.0 minute
+    ,{"section":"howto"}              // 2.5 minutes
+    ,{"section":"support"}            // 0.5 minute
+    ,{"section":"fallbacks"}          // 2.5 minute
+    ,{"section":"benefits"}           // 5.0 minute
+    //,{"section":"codecs"}             // 2.0 minutes
+    ,{"section":"practicalities"}     // 3.0 minutes
+    ,{"section":"references"}         // 1.0 minutes
 ]

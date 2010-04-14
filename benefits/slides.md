@@ -13,21 +13,24 @@
 
 !SLIDE
 ## PAGE ZOOM
-img: page with video
 
 !SLIDE
-## PAGE ZOOM
-img: page with video zoomed
+![Video at normal size](../images/video-size-normal.png "Title is optional")     
 
 !SLIDE
-## PAGE ZOOM
-img: page with FLASH video zoomed
+![Zoomed video](../images/video-size-zoomed.png "Title is optional")     
+
+!SLIDE
+## STYLE WITH CSS
+!SLIDE
+![Sublime video player](../images/sublime-video.png "Title is optional")     
 
 !SLIDE
 ## SCRIPT WITH JAVASCRIPT
-img: the W3C video api
+!SLIDE
+![Video events api](../images/video-events.png "Title is optional")     
 
-!SLIDE bullets
+!SLIDE bullets incremental
 ## CUSTOM CONTROLS
 
 * \<html\> elements needn't overlap video frame
@@ -35,8 +38,13 @@ img: the W3C video api
 * \<ul\> of chapter markers
 
 !SLIDE
-## STYLE WITH CSS
-img: the SUBLIME video player
+## FUTURE PROOF
+
+!SLIDE
+![Firefox full screen menu](../images/firefox-fullscreen.png)
+
+ !SLIDE
+![Ipad screenshot](../images/ipad-screenshot.png)
 
 !SLIDE
 ## INTEGRATION WITH \<CANVAS\>
@@ -53,16 +61,8 @@ img: the SUBLIME video player
     }
 
 !SLIDE
-img: the tile game using video
+![Tile video game](../images/tile-game.png)
 
 !SLIDE
-img: the youtube video chooser
-
-!SLIDE
-## FUTURE PROOF
-img: FireFox 3.6 full screen dialogue
-
- !SLIDE
-## FUTURE PROOF
-img: iPad screenshot
+![youtube video chooser](../images/youtube-chooser.png)
 
