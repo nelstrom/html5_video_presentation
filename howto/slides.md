@@ -70,36 +70,12 @@
     </video>
 
 !SLIDE smaller
-##CONTROLS
-    @@@html
-    <video src="/movies/example.ogg"
-        width="480"
-        height="360"
-        poster="/poster/example.jpg"
-        controls>
-        Download the <a href="/movies/example.ogg">video</a>.
-    </video>
-
-!SLIDE smaller
-##AUTOPLAY
-    @@@html
-    <video src="/movies/example.ogg"
-        width="480"
-        height="360"
-        poster="/poster/example.jpg"
-        controls
-        autoplay>
-        Download the <a href="/movies/example.ogg">video</a>.
-    </video>
-
-!SLIDE smaller
 ##AUTOBUFFER
     @@@html
     <video src="/movies/example.ogg"
         width="480"
         height="360"
         poster="/poster/example.jpg"
-        controls
         autobuffer>
         Download the <a href="/movies/example.ogg">video</a>.
     </video>
