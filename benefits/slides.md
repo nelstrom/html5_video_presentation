@@ -41,6 +41,17 @@ img: the SUBLIME video player
 !SLIDE
 ## INTEGRATION WITH \<CANVAS\>
 
+!SLIDE smaller
+
+## canvas.drawImage()
+
+    @@@javascript
+    var canvas = document.getElementById('canvas').getContext('2d');
+    var video = document.getElementsByTagName('video')[0];
+    video.onloadeddata = function(e) {
+      canvas.drawImage(video, 0, 0);
+    }
+
 !SLIDE
 img: the tile game using video
 
