@@ -1,6 +1,28 @@
-!SLIDE
-# Containers
+!SLIDE 
+# CODECS & CONTAINERS
+
+!SLIDE bullets
+## CONTAINERS
+
+* .mov
+* .ogv
+* .avi
+* .flv
 
 !SLIDE
-# Codecs
+## CODECS
+
+!SLIDE bullets
+## AUDIO
+
+* MP3
+* Vorbis
+
+!SLIDE bullets
+##VIDEO
+
+* h.264
+* Theora
+* Animation
+* Sorensen
 
