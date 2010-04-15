@@ -4,20 +4,20 @@
 !SLIDE
 ## PAGE ZOOM
 
-!SLIDE center
+!SLIDE full-page
 ![Video at normal size](video-size-normal.png)     
 
-!SLIDE center
+!SLIDE full-page
 ![Zoomed video](video-size-zoomed.png)     
 
 !SLIDE
 ## STYLE WITH CSS
-!SLIDE center
+!SLIDE full-page
 ![Sublime video player](sublime-video.png)     
 
 !SLIDE
 ## SCRIPT WITH JAVASCRIPT
-!SLIDE center
+!SLIDE full-page
 ![Video events api](video-events.png)     
 
 !SLIDE bullets incremental
@@ -30,10 +30,10 @@
 !SLIDE
 ## FUTURE PROOF
 
-!SLIDE center
+!SLIDE full-page
 ![Firefox full screen menu](firefox-fullscreen.png)
 
- !SLIDE center
+ !SLIDE full-page
 ![Ipad screenshot](ipad-screenshot.png)
 
 !SLIDE
@@ -50,6 +50,6 @@
       canvas.drawImage(video, 0, 0);
     }
 
-!SLIDE center
+!SLIDE full-page
 ![Tile video game](tile-game.png)
 
