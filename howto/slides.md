@@ -24,7 +24,7 @@
 !SLIDE smaller
 
     @@@html
-    <video src="/movies/example.ogg"/>
+    <video src="movies/example.ogg"/>
 
 !SLIDE
 ##IDEAL

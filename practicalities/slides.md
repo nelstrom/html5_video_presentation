@@ -33,7 +33,7 @@
 # AUTOBUFFER
 
 !SLIDE
-![Why the HTML5 'video' element is effectively unusable, even in browsers which support it](../images/daringfireball.png)
+![Why the HTML5 'video' element is effectively unusable, even in browsers which support it](daringfireball.png)
 
 !SLIDE bullets incremental
 ## AUTOBUFFER

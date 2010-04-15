@@ -4,21 +4,21 @@
 !SLIDE
 ## PAGE ZOOM
 
-!SLIDE
-![Video at normal size](../images/video-size-normal.png "Title is optional")     
+!SLIDE center
+![Video at normal size](video-size-normal.png)     
 
-!SLIDE
-![Zoomed video](../images/video-size-zoomed.png "Title is optional")     
+!SLIDE center
+![Zoomed video](video-size-zoomed.png)     
 
 !SLIDE
 ## STYLE WITH CSS
-!SLIDE
-![Sublime video player](../images/sublime-video.png "Title is optional")     
+!SLIDE center
+![Sublime video player](sublime-video.png)     
 
 !SLIDE
 ## SCRIPT WITH JAVASCRIPT
-!SLIDE
-![Video events api](../images/video-events.png "Title is optional")     
+!SLIDE center
+![Video events api](video-events.png)     
 
 !SLIDE bullets incremental
 ## CUSTOM CONTROLS
@@ -30,11 +30,11 @@
 !SLIDE
 ## FUTURE PROOF
 
-!SLIDE
-![Firefox full screen menu](../images/firefox-fullscreen.png)
+!SLIDE center
+![Firefox full screen menu](firefox-fullscreen.png)
 
- !SLIDE
-![Ipad screenshot](../images/ipad-screenshot.png)
+ !SLIDE center
+![Ipad screenshot](ipad-screenshot.png)
 
 !SLIDE
 ## INTEGRATION WITH \<CANVAS\>
@@ -50,6 +50,6 @@
       canvas.drawImage(video, 0, 0);
     }
 
-!SLIDE
-![Tile video game](../images/tile-game.png)
+!SLIDE center
+![Tile video game](tile-game.png)
 

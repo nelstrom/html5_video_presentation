@@ -9,7 +9,7 @@
 * [Everything you need to know about HTML5 video](http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/)
 * [Accessible HTML5 video with captions](http://dev.opera.com/articles/view/accessible-html5-video-with-javascripted-captions/)
 
-!SLIDES bullets smaller
+!SLIDE bullets smaller
 ## LINKS
 
 * [http://drewneil.com/p/html5_video](http://drewneil.com/p/html5_video)
