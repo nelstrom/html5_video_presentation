@@ -1,3 +1,3 @@
 require 'rubygems'
 require 'showoff'
-showoff serve
+run ShowOff.new
