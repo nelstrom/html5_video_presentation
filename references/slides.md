@@ -12,7 +12,7 @@
 !SLIDE bullets smaller
 ## LINKS
 
-* [http://drewneil.com/p/html5-video](http://drewneil.com/p/html5-video)
+* [http://drewneil.com/p/html5_video](http://drewneil.com/p/html5_video)
 * [http://github.com/nelstrom/html5_video_presentation](http://github.com/nelstrom/html5_video_presentation)
 * [@nelstrom](http://twitter.com/nelstrom)
 
