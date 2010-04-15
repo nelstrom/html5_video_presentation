@@ -1,7 +1,7 @@
 [ 
     {"section":"intro"}
     //,{"section":"history"}            // 1.0 minute
-    //,{"section":"howto"}              // 2.0 minutes
+    ,{"section":"howto"}              // 2.0 minutes
     ,{"section":"support"}            // 0.5 minute
     ,{"section":"fallbacks"}          // 2.5 minute
     ,{"section":"benefits"}           // 5.0 minute
